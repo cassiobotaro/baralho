@@ -7,7 +7,7 @@ Este projeto foi desenvolvido baseado no [primeiro dia](https://github.com/ramal
 ## Requisitos
 
 - [GoNB](https://github.com/janpfeifer/gonb)
-- [Jupyter Notebook] (https://jupyter.org/install)
+- [Jupyter Notebook](https://jupyter.org/install)
 
 ## Instalação
 
