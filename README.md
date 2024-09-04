@@ -1,4 +1,4 @@
-# baralho
+# Baralho
 
 🃏 Um baralho utilizando GoNB.
 
